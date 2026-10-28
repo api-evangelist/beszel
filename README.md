@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Beszel is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://beszel.dev/
+Beszel provides a lightweight server monitoring solution that tracks CPU, memory, and network usage for Docker and Podman containers. It offers configurable alerts, multi‑user management with shared systems, OAuth/OIDC authentication, automatic backups to disk or S3‑compatible storage, and a REST API for integration. The software is released under the MIT License.
+
+**Areas:** Server Monitoring · Docker · Podman · Alerts · Multi‑user · OAuth · Backup · REST API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://beszel.dev/)
+- [Getting started](https://beszel.dev/guide/getting-started)
+- [Changelog](https://github.com/henrygd/beszel/releases)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/beszel/](https://apis.io/providers/beszel/).
